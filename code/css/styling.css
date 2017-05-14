@@ -1,0 +1,40 @@
+ .container-fluid{
+     background-color: #f5f5f0;
+ }
+ .tab-content > .active {
+     padding: 20px;
+ }
+
+ .top-padding {
+     margin-top: 10px;
+ }
+ 
+ #api-names {
+     height: 375px;
+     overflow-y: auto;
+ }
+
+ #api-details {
+     height: 375px;
+     overflow-y: auto;
+ }
+
+#mashup-names {
+     height: 375px;
+     overflow-y: auto;
+ }
+
+ #mashup-details {
+     height: 375px;
+     overflow-y: auto;
+ }
+
+ #keywords-names {
+     height: 375px;
+     overflow-y: auto;
+ }
+
+ #keywords-details {
+     height: 375px;
+     overflow-y: auto;
+ }
